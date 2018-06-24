@@ -14,6 +14,7 @@
     'version': '1.0',
     'support': 'kunkaamd@gmail.com',
 
+    'images': ['static/description/icon.png'],
     # any module necessary for this one to work correctly
     'depends': ['base','point_of_sale'],
     
