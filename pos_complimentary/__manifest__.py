@@ -13,12 +13,7 @@
     'category': 'Point of Sale',
     'version': '1.0',
     'support': 'kunkaamd@gmail.com',
-    
-    'images': ['static/description/description.png',
-               'static/description/description1.png',
-               'static/description/description2.png',
-               'static/description/description3.png',
-               'static/description/description4.png'],
+
     # any module necessary for this one to work correctly
     'depends': ['base','point_of_sale'],
     
